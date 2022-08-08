@@ -1,11 +1,12 @@
+// @ts-nocheck
 /**
  * @fileoverview
  * {@interface QrcodeDecoder} wrapper around ZXing library.
- * 
+ *
  * @author mebjas <minhazav@gmail.com>
- * 
+ *
  * ZXing library forked from https://github.com/zxing-js/library.
- * 
+ *
  * The word "QR Code" is registered trademark of DENSO WAVE INCORPORATED
  * http://www.denso-wave.com/qrcode/faqpatent-e.html
  */
